@@ -14,7 +14,7 @@ Customer Experience (CX) is defined as the sum of all experiences a customer has
 
 This Toolkit is intended to help government agencies improve how we deliver services and information to the public.
 
-How to use this guide:
+**How to use this guide:**
 
   * Honestly assess where you’re doing well, and where you need some work, then use the resources below to help you improve
   * Coordinate internally, to ensure your agency “speaks with one voice” across the entire organization
