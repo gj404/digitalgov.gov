@@ -29,6 +29,12 @@
 
 top6:
 
+  - file          : '2019-11-18-building-elements-that-earn-trust.md'
+    type          : 'post'
+
+  - file          : '2019-11-13-ginny-redish-how-collaborate-on-strategies.md'
+    type          : 'video'
+
   - file          : '2019-11-08-basic-scrum-ii.md'
     type          : 'video'
 
@@ -40,12 +46,3 @@ top6:
 
   - file          : '2019-11-05-foundations-agile-ii.md'
     type          : 'video'
-
-  - file          : '2019-11-04-foundations-agile-i.md'
-    type          : 'video'
-
-  - file          : '2019-11-04-lets-talk-21st-century-idea.md'
-    type          : 'post'
-
-  - file          : '2019-08-05-a-successful-vibrant-productive-career-for-federal-employees.md'
-    type          : 'post'
